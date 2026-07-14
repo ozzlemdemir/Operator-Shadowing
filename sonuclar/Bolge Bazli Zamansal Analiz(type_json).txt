@@ -1,0 +1,36 @@
+{
+    "ID_1": {
+        "toplam_sure_saniye": 98.92,
+        "bolge_ici_sure_saniye": 5.68,
+        "bolge_disi_sure_saniye": 93.24,
+        "bolge_ici_oran": 0.057,
+        "bolge_disi_oran": 0.943,
+        "birlestirilen_ham_IDler": [
+            1,
+            9,
+            22
+        ]
+    },
+    "ID_2": {
+        "toplam_sure_saniye": 10.4,
+        "bolge_ici_sure_saniye": 0.0,
+        "bolge_disi_sure_saniye": 10.4,
+        "bolge_ici_oran": 0.0,
+        "bolge_disi_oran": 1.0,
+        "birlestirilen_ham_IDler": [
+            12,
+            21,
+            23
+        ]
+    },
+    "ID_3": {
+        "toplam_sure_saniye": 4.6,
+        "bolge_ici_sure_saniye": 0.0,
+        "bolge_disi_sure_saniye": 4.6,
+        "bolge_ici_oran": 0.0,
+        "bolge_disi_oran": 1.0,
+        "birlestirilen_ham_IDler": [
+            19
+        ]
+    }
+}

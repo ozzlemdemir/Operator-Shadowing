@@ -1,0 +1,17 @@
+kullanılan test videosunun adı : video_for_model_3
+
+! video orijinalde 14 dk olup test amaçlı son 2 dk'si kullanılmıştır.
+
+Kullanılan videoda 2dk boyunca yaklaşık 3 insan gözükmekte fakat Bot-SORT Re-ID algoritması kullanılmasına rağmen ID yeniden atamaları olmaktadır. Şimdilik prototip aşamasında ve de videonun manuel olarak kontrol edilebilir uzunlukta olmasından dolayı aynı kişiye atanan ID' ler tespit edilmiş ve bu farklı ID' ler tek bir ID altında toplanmıştır.  ID toplanması ise şu şekildedir :
+
+id_mapping = {
+    1: 1, 9: 1, 22: 1,
+    12: 2, 21: 2, 23: 2,
+    19: 3
+}
+
+Isı haritası çıkarırken kullanılan csv dosyasnın adı birlestirilmis_koordinatlar_csv_3_id ' dir.
+
+
+ 
+
